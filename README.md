@@ -7,7 +7,7 @@ Presentation slides by Typst
 ```bash
 $ mkdir -p ~/.local/share/typst/packages
 $ cd ~/.local/share/typst/packages
-$ git clone https://github.com/watasuke102/typst-templates.git
+$ git clone https://github.com/watasuke102/typst-templates.git watasuke102
 ```
 
 ## License
